@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+$headerBackground: rgb(25, 118, 210);
+$headerTextColor: rgb(255, 255, 255);
+$menuBackgroundColor: rgb(240, 240, 240);
+$boxShadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
